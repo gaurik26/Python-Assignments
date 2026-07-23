@@ -1,0 +1,7 @@
+print("Enter a number to print addition , subtraction , multiplication and division of two numbers")
+a=int(input("Enter first number: "))
+b=int(input("Enter second number: "))
+print("Addition of 2 numers are: ", a+b)
+print("Subtraction of 2 numbers are: ", a-b)
+print("Multiplication of 2 numbers are: ", a*b)
+print("Division of 2 numbers are: ", a/b)
